@@ -1,0 +1,27 @@
+.Plli{
+    color: blueviolet;
+}
+.Pllis{
+    color: blue;
+}
+.Plave{
+    color: rgb(0, 0, 0);
+    height: 300px;
+    width: 250px;
+    background-color: blueviolet;
+    border: solid;
+}
+.Box{
+    color: rgb(0, 0, 0);
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    border: solid;
+}
+.box2{
+    color: black;
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+    border: solid;
+}
